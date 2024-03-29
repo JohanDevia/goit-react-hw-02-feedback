@@ -1,4 +1,3 @@
-
 import React, { Component } from 'react';
 import { FeedbackContainer, FeedbackButton } from './Feedbacks.styled';
 
